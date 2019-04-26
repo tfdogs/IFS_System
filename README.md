@@ -1,2 +1,2 @@
-# IFS_System
-Information Filter System.
+# 上师大电子爱好者协会官方网站
+www.com
